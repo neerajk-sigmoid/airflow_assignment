@@ -1,0 +1,5 @@
+{
+	"command_with_base_path": "python /Users/neeraj/airflow/dags/code/write_to_sf.py",
+	"email": ["neeraj828402@gmail.com"],
+	"tasks": ["ingest_data_with_filter_value_1", "ingest_data_with_filter_value_2", "ingest_data_with_filter_value_3"]
+}
